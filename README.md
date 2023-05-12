@@ -1,11 +1,10 @@
 # Suicides-in-India-dashboard
 
 Project Work Description :
-
-For this project, first connect with datasources (Excel files)
-Create table relationships and data models
-Create measures and columns usings DAX formulas for analysis of various data
-Design interactive dashboards using various visualisation tools.
+ - For this project, first connect with datasources (Excel files)
+ - Create table relationships and data models
+ - Create measures and columns usings DAX formulas for analysis of various data
+ - Design interactive dashboards using various visualisation tools.
 
 --------------------
 
